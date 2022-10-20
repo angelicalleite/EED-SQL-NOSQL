@@ -1,4 +1,4 @@
-# EED-SQL-NOSQL
+# SQL e NoSQL para Engenheiro de Dados
 SQL (Structured Query Language) é uma linguagem projetada para gerenciar dados em um banco de dados relacional. Ela existe desde a década de 1970 e é o método mais comum de acessar dados em bancos de dados hoje. SQL possui uma variedade de funções que permitem que os analistas leiam, manipulem e alterem dados. SQL é uma linguagem popular por diversas razões:
 
 - É semanticamente fácil de entender e aprender.
